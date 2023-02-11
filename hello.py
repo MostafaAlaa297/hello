@@ -1,3 +1,3 @@
-def hello():
+def myFunc():
     return 1
-print(hello())
+print(myFunc())
